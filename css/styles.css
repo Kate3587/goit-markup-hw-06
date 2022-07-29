@@ -944,9 +944,9 @@ display: block;
      color: rgba(117, 117, 117, 0.5);
 }
 
-/* .form-textarea:focus-within {
+.form-textarea:focus-within {
     border: 1px solid var(--accent-color);
-} */
+}
 
 .form .button-primary{
     margin: 30px auto 0px;
